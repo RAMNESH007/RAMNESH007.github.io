@@ -1,6 +1,6 @@
 # Ramnesh Kumar Sahu | Portfolio
 
-Personal portfolio website of **Ramnesh Kumar Sahu**, a B.Tech Computer Science (AI/ML) student at PSIT Kanpur and co-founder of **SKOT**, a deep-tech UAV airspace management company. The site presents his work across drones, rocketry, embedded systems, AI and full-stack development.
+Personal portfolio website of **Ramnesh Kumar Sahu**, a B.Tech Computer Science (AI/ML) student at PSIT Kanpur and building **SKOT**, a deep-tech UAV airspace management company. The site presents his work across drones, rocketry, embedded systems, AI and full-stack development.
 
 ## About the website
 
